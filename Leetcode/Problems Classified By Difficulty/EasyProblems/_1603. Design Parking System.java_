@@ -1,0 +1,46 @@
+class ParkingSystem 
+{
+    int small , medium , big;
+    public ParkingSystem(int big, int medium, int small) 
+    {
+        this.big = big;
+        this.small = small;
+        this.medium = medium;
+    }
+    
+    public boolean addCar(int carType) 
+    {
+        if(carType == 1)
+            if(this.big > 0)
+            {
+                --this.big;
+                return true;
+            }
+            else
+                return false;
+        else if(carType == 2)
+            if(this.medium > 0)
+            {
+                --this.medium;
+                return true;
+            }
+            else
+                return false;
+        else
+        {
+            if(this.small > 0)
+            {
+                --this.small;
+                return true;
+            }
+            else
+                return false;
+        }
+    }
+}
+
+/**
+ * Your ParkingSystem object will be instantiated and called as such:
+ * ParkingSystem obj = new ParkingSystem(big, medium, small);
+ * boolean param_1 = obj.addCar(carType);
+ */
