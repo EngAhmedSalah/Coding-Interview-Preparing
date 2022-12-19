@@ -73,13 +73,13 @@ Table of Contents
    * [Software Engineering](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/books/Software%20Engineering)
 # Object Oriented Design Made Easy ⭐
    ### OBJECT-ORIENTED DESIGN AND UML
-   * [Object oriented Basics]()
-   * [OO Analysis and Design]()
-   * [What is UML?]()
-   * [Use Case Diagrams]()
-   * [Class Diagram]()
-   * [Sequence diagram]()
-   * [Activity Diagrams]()
+   * [Object oriented Basics](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/object-oriented-basics.html)
+   * [OO Analysis and Design](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/OO-analysis-and-design.html)
+   * [What is UML?](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/what-is-uml.html)
+   * [Use Case Diagrams](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/use-case-diagram.html)
+   * [Class Diagram](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/class-diagram.html)
+   * [Sequence diagram](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/sequence-diagram.html)
+   * [Activity Diagrams](https://htmlpreview.github.io/?https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/OOP/core/activity-diagrams.html)
    ### OBJECT ORIENTED DESIGN CASE STUDIES
    * [Design a Hotel Management System]()
    * [Design an Airline Management System]()
