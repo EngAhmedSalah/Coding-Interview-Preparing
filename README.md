@@ -72,8 +72,7 @@ Table of Contents
             * [Problems Classified by Company](#other-emails)
                * [Adobe](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/018102f1bb4c5cd6555fabdf7d0e4ae868a10d0f/Leetcode/Premium%20List%20By%20Company/Adobe%20-%20LeetCode.pdf)
                * [Airbnb](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Airbnb%20-%20LeetCode.pdf)
-               * [Amazon](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Amazo
-               n%20-%20LeetCode.pdf)
+               * [Amazon](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Amazon%20-%20LeetCode.pdf)
                * [Apple](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Apple%20-%20LeetCode.pdf)
                * [Airbnb](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Airbnb%20-%20LeetCode.pdf)
                * [Bllomberg](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Bloomberg%20-%20LeetCode.pdf)
