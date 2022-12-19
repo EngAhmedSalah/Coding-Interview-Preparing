@@ -4,9 +4,9 @@ This is a guide to craking coding interviews in big Companies
 
 Table of Contents
 =================
-   # Algorithms and Datastructures made Easy
-   * [Topics to Study](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/tree/master/Topics%20to%20Study)
-      * [Algorithms]()
+   # Algorithms and Datastructures made Easy ⭐
+   ## Topics to Study
+   ### Algorithms
          * [Complexity Analysis]()
          * [Sorting Algorithms]()
             * [bubble sort](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/)
