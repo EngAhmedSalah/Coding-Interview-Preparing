@@ -51,7 +51,7 @@ Table of Contents
       * [Easy Problems Solutions](#other-emails)
       * [Medium Problems Solutions](#configuring-other-emails)
       * [Hard Problems Solutions](#configuring-other-emails)
-      ### Problems Classified by Company]
+      ### Problems Classified by Company
       * [Adobe](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/018102f1bb4c5cd6555fabdf7d0e4ae868a10d0f/Leetcode/Premium%20List%20By%20Company/Adobe%20-%20LeetCode.pdf)
       * [Airbnb](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Airbnb%20-%20LeetCode.pdf)
       * [Amazon](https://github.com/EngAhmedSalah/Coding-Interview-Preparing/blob/origin/Leetcode/Premium%20List%20By%20Company/Amazon%20-%20LeetCode.pdf)
